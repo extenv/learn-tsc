@@ -4,5 +4,8 @@
   "main": "helloworld.js",
   "license": "MIT",
   "description": "learn typescripts",
-  "author": "Ivan Maulana"
+  "author": "Ivan Maulana",
+  "scripts": {
+    "dev": "tsc && node build/app.js"
+  }
 }
