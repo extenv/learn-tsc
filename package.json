@@ -1,0 +1,8 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "license": "MIT",
+  "description": "learn typescripts",
+  "author": "Ivan Maulana"
+}
